@@ -1,0 +1,10 @@
+{
+  "name": "memdb",
+  "version": "1.0.0",
+  "dependencies": [
+    "googletest",
+    "spdlog",
+    "cli11",
+    "benchmark"
+  ]
+}
